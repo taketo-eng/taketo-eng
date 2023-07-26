@@ -17,6 +17,7 @@
 <a href="https://github.com/taketo-eng/stable-diffusion-generator-app">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=taketo-eng&repo=stable-diffusion-generator-app&theme=react" />
 </a>
+<br/>
 <a href="https://github.com/taketo-eng/Umeya-website">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=taketo-eng&repo=Umeya-website&theme=react" />
 </a>
