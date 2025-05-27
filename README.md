@@ -16,5 +16,5 @@
 </a>
 <br/>
 <a href="https://github.com/taketo-eng/Umeya-website">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=taketo-eng&repo=Umeya-website&theme=calm" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=taketo-eng&repo=Umeya-website&theme=calm" />
 </a>
