@@ -1,11 +1,11 @@
 ### Hi there, I'm Taketo Yahiro aka Yapimaru 👋
-<br/>
+
 <a href="https://github.com/taketo-eng">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=taketo-eng&show_icons=true&theme=github_dark_dimmed" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=taketo-eng&show_icons=true&theme=github_dark_dimmed" />
 </a>
 
 <a href="https://github.com/taketo-eng">
-  <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taketo-eng&layout=compact&theme=github_dark_dimmed" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taketo-eng&layout=compact&theme=github_dark_dimmed" />
 </a>
 
 <br/>
